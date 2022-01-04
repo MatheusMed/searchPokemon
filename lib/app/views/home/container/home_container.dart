@@ -2,7 +2,7 @@ import 'package:app/app/models/pokemon.dart';
 import 'package:app/app/repositories/i_pokemon_repository.dart';
 import 'package:app/app/views/home/home_error.dart';
 import 'package:app/app/views/home/home_loading.dart';
-import 'package:app/app/views/home_view.dart';
+import 'package:app/app/views/home/home_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeContainer extends StatefulWidget {

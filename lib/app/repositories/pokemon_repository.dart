@@ -1,4 +1,4 @@
-import 'package:app/app/consts.dart';
+import 'package:app/app/utils/consts.dart';
 import 'package:app/app/models/pokemon.dart';
 import 'package:app/app/repositories/i_pokemon_repository.dart';
 import 'package:dio/dio.dart';
